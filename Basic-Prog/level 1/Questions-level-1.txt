@@ -1,0 +1,50 @@
+1. Print first 100 natural numbers.
+2. Print first 50 even numbers.
+3. Print first 50 odd numbers.
+4. Print alphabets from A to Z.
+5. Print lowercase alphabets from a to z.
+6. Print multiplication table from 1 to 10.
+7. Print sum of first 100 natural numbers.
+8. Print sum of first 50 even numbers.
+9. Print sum of first 50 odd numbers.
+10. Print product of first 10 natural numbers.
+11. Find sum of numbers between two given numbers.
+12. Find sum of squares of first N numbers.
+13. Find sum of cubes of first N numbers.
+14. Check if a given number is perfect number.
+15. Print all perfect numbers between 1 and 500.
+16. Check if a given number is strong number.
+17. Print all strong numbers between 1 and 500.
+18. Print all prime numbers between 1 and 100.
+19. Print first N prime numbers.
+20. Check whether a number is a palindrome.
+21. Print all palindrome numbers between 1 and 500.
+22. Reverse a string without using strrev().
+23. Count vowels in a string.
+24. Count consonants in a string.
+25. Count digits in a string.
+26. Convert string to uppercase without strupr().
+27. Convert string to lowercase without strlwr().
+28. Find length of string without strlen().
+29. Copy one string into another without strcpy().
+30. Concatenate two strings without strcat().
+31. Check if a string is palindrome.
+32. Print first 10 Fibonacci numbers.
+33. Print Fibonacci series up to a given limit.
+34. Generate first N terms of an arithmetic progression.
+35. Generate first N terms of a geometric progression.
+36. Find maximum element in an array.
+37. Find minimum element in an array.
+38. Find sum of array elements.
+39. Find average of array elements.
+40. Count even numbers in an array.
+41. Count odd numbers in an array.
+42. Search an element in an array (linear search).
+43. Reverse an array.
+44. Sort an array in ascending order.
+45. Sort an array in descending order.
+46. Merge two arrays into a third array.
+47. Find frequency of each element in an array.
+48. Remove duplicate elements from an array.
+49. Rotate array elements to the left by one position.
+50. Rotate array elements to the right by one position.

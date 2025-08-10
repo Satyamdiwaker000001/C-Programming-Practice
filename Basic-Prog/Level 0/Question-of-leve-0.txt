@@ -1,0 +1,108 @@
+Basic – Level 0 (50 Questions)
+These will focus on syntax, I/O, variables, operators, simple logic.
+
+A. Input/Output & Variables
+Print "Hello World".
+
+Print your name and age.
+
+Take name and roll number from user and print it.
+
+Display the size of int, float, char, double using sizeof.
+
+Print ASCII value of a character.
+
+Input two numbers and display their sum.
+
+Input two numbers and display their difference.
+
+Input two numbers and display their product.
+
+Input two numbers and display their division result.
+
+Input radius and find area of a circle.
+
+B. Operators & Expressions
+Find remainder when one number is divided by another.
+
+Convert Celsius to Fahrenheit.
+
+Convert Fahrenheit to Celsius.
+
+Calculate perimeter of a rectangle.
+
+Calculate area of a rectangle.
+
+Swap two numbers using a third variable.
+
+Swap two numbers without using a third variable.
+
+Calculate simple interest.
+
+Calculate compound interest.
+
+Calculate square and cube of a number.
+
+C. Conditional Statements
+Check whether a number is positive or negative.
+
+Check whether a number is even or odd.
+
+Check whether a character is a vowel or consonant.
+
+Find maximum of two numbers.
+
+Find maximum of three numbers.
+
+Check whether a year is leap year or not.
+
+Check if number is divisible by 5 and 11.
+
+Check if a character is uppercase or lowercase.
+
+Check if entered character is alphabet, digit, or special character.
+
+Display day name based on day number (1–7).
+
+D. Loops
+Print numbers from 1 to 10 using loop.
+
+Print numbers from 10 to 1 using loop.
+
+Print even numbers between 1 and 50.
+
+Print odd numbers between 1 and 50.
+
+Find sum of first N natural numbers.
+
+Find sum of even numbers between 1 and N.
+
+Find sum of odd numbers between 1 and N.
+
+Print multiplication table of a number.
+
+Calculate factorial of a number.
+
+Reverse a number (e.g., 123 → 321).
+
+E. Beginner Logic
+Check whether a number is palindrome.
+
+Check whether a number is Armstrong.
+
+Generate Fibonacci series up to N terms.
+
+Find sum of digits of a number.
+
+Find product of digits of a number.
+
+Count number of digits in a number.
+
+Calculate power of a number without pow().
+
+Find greatest common divisor (GCD) of two numbers.
+
+Find least common multiple (LCM) of two numbers.
+
+Check whether a number is prime.
+
