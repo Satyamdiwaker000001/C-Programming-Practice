@@ -1,0 +1,51 @@
+1. Generate Mandelbrot set in ASCII art.
+2. Generate Julia set in ASCII art.
+3. Generate Koch snowflake pattern in ASCII.
+4. Generate Cantor set pattern in ASCII.
+5. Print Pascal’s Triangle modulo 2 (Sierpinski triangle).
+6. Generate first N prime Fibonacci numbers.
+7. Generate first N composite Fibonacci numbers.
+8. Generate first N prime Lucas numbers.
+9. Generate first N composite Lucas numbers.
+10. Implement Lucas-Lehmer test for Mersenne primes.
+11. Implement primality test using Miller-Rabin.
+12. Implement primality test using AKS algorithm.
+13. Implement Pollard’s rho algorithm for factorization.
+14. Implement Brent’s algorithm for factorization.
+15. Implement Fermat factorization method.
+16. Implement binary GCD algorithm.
+17. Implement extended Euclidean algorithm.
+18. Solve linear Diophantine equation ax + by = c.
+19. Find modular multiplicative inverse of a number.
+20. Implement Chinese remainder theorem.
+21. Solve system of congruences.
+22. Find discrete logarithm using Baby-step Giant-step algorithm.
+23. Implement RSA encryption (basic version).
+24. Implement RSA decryption (basic version).
+25. Implement Diffie-Hellman key exchange.
+26. Implement basic elliptic curve point addition.
+27. Implement elliptic curve point doubling.
+28. Multiply elliptic curve point by scalar.
+29. Implement big integer addition using arrays.
+30. Implement big integer subtraction using arrays.
+31. Implement big integer multiplication using arrays.
+32. Implement big integer division using arrays.
+33. Implement FFT for integer multiplication.
+34. Implement polynomial interpolation (Lagrange).
+35. Implement polynomial division.
+36. Implement polynomial GCD.
+37. Implement Berlekamp’s algorithm for factoring polynomials.
+38. Implement determinant calculation using Gaussian elimination.
+39. Implement matrix inversion using Gaussian elimination.
+40. Implement LU decomposition.
+41. Implement Cholesky decomposition.
+42. Implement QR decomposition.
+43. Implement singular value decomposition (basic version).
+44. Implement PageRank algorithm (simplified).
+45. Implement Bellman-Ford algorithm.
+46. Implement Floyd-Warshall algorithm.
+47. Implement Dijkstra’s algorithm.
+48. Implement Johnson’s algorithm for all-pairs shortest paths.
+49. Implement minimum spanning tree using Kruskal’s.
+50. Implement minimum spanning tree using Prim’s.
+This is a very comprehensive list of mathematical and computational problems, covering a wide range of topics in number.

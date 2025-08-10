@@ -1,0 +1,50 @@
+1. Print hollow diamond with numbers.
+2. Print concentric square pattern with numbers.
+3. Print zig-zag star pattern.
+4. Print rhombus pattern with numbers.
+5. Generate Pascal’s Triangle using arrays.
+6. Find all prime factors of a number.
+7. Find sum of prime factors of a number.
+8. Find product of prime factors of a number.
+9. Find largest prime factor of a number.
+10. Find smallest prime factor of a number.
+11. Check if a number is a palindrome in binary form.
+12. Convert a number to base-N (2 ≤ N ≤ 16).
+13. Convert a base-N number to decimal.
+14. Add two binary numbers.
+15. Subtract two binary numbers.
+16. Multiply two binary numbers.
+17. Divide two binary numbers.
+18. Add two hexadecimal numbers.
+19. Subtract two hexadecimal numbers.
+20. Multiply two hexadecimal numbers.
+21. Divide two hexadecimal numbers.
+22. Implement binary search on a rotated sorted array.
+23. Find peak element in an array.
+24. Find valley element in an array.
+25. Find equilibrium index of an array.
+26. Count inversions in an array.
+27. Find majority element using Boyer-Moore algorithm.
+28. Find maximum sum of non-adjacent elements.
+29. Count pairs in an array with given sum.
+30. Count triplets in an array with given sum.
+31. Check if a matrix is magic square.
+32. Generate a magic square of odd order.
+33. Generate a magic square of even order.
+34. Convert matrix to upper triangular form.
+35. Convert matrix to lower triangular form.
+36. Check if a string is palindrome using recursion.
+37. Reverse a string without using library functions.
+38. Find all substrings of a string.
+39. Find the lexicographically next permutation of a string.
+40. Find the lexicographically previous permutation of a string.
+41. Generate all rotations of a string.
+42. Generate all anagrams of a string.
+43. Find the edit distance between two strings.
+44. Implement basic pattern matching algorithm.
+45. Implement KMP string search algorithm.
+46. Count the number of words ending with a vowel.
+47. Count the number of words starting with a vowel.
+48. Replace all consonants with a given character.
+49. Convert camelCase to snake_case.
+50. Convert snake_case to camelCase.

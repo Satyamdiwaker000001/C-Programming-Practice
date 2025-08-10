@@ -1,0 +1,50 @@
+1. Print a hollow diamond pattern.
+2. Print a butterfly pattern using stars.
+3. Print a zig-zag number pattern.
+4. Print a sandglass star pattern.
+5. Print Pascal’s Triangle with factorial formula.
+6. Find the sum of the series 1 + 1/2 + 1/3 + … + 1/n.
+7. Find the sum of the series 1² + 2² + 3² + … + n².
+8. Find the sum of the series 1³ + 2³ + 3³ + … + n³.
+9. Calculate nCr (combinations) using factorial.
+10. Calculate nPr (permutations) using factorial.
+11. Check if a number can be expressed as the sum of two primes.
+12. Find all twin primes between 1 and N.
+13. Find all prime triplets between 1 and N.
+14. Generate all perfect squares less than N.
+15. Check if a number is an automorphic number.
+16. Print all automorphic numbers between 1 and N.
+17. Check if a number is a Harshad number.
+18. Print all Harshad numbers between 1 and N.
+19. Check if a number is a Kaprekar number.
+20. Print all Kaprekar numbers between 1 and N.
+21. Find the sum of all digits at even positions in a number.
+22. Find the sum of all digits at odd positions in a number.
+23. Check if a matrix is an identity matrix.
+24. Check if a matrix is sparse.
+25. Find the sum of boundary elements of a matrix.
+26. Find the sum of diagonal elements of a matrix.
+27. Find the sum of anti-diagonal elements of a matrix.
+28. Rotate a matrix by 90 degrees clockwise.
+29. Rotate a matrix by 90 degrees anticlockwise.
+30. Find the largest element in each row of a matrix.
+31. Find the smallest element in each column of a matrix.
+32. Check if a string is palindrome ignoring spaces and case.
+33. Find the most frequent character in a string.
+34. Find the least frequent character in a string.
+35. Reverse words in a string without changing their order.
+36. Reverse the order of words without reversing letters.
+37. Remove repeated words from a string.
+38. Count the occurrence of each word in a string.
+39. Find the lexicographically smallest word in a string.
+40. Find the lexicographically largest word in a string.
+41. Sort words in a string in ascending order.
+42. Sort words in a string in descending order.
+43. Find the longest palindrome substring in a string.
+44. Find the shortest palindrome substring in a string.
+45. Convert all lowercase letters to uppercase without strupr().
+46. Convert all uppercase letters to lowercase without strlwr().
+47. Encrypt a string using Caesar cipher.
+48. Decrypt a string using Caesar cipher.
+49. Check if two strings are permutations of each other.
+50. Implement a basic string compression algorithm.

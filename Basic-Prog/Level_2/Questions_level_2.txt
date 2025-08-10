@@ -1,0 +1,50 @@
+1. Print multiplication table from 1 to 20.
+2. Print the sum of all prime numbers between 1 and 200.
+3. Print all Armstrong numbers between 1 and 1000.
+4. Check if a number is an Armstrong number.
+5. Count the number of prime numbers between two given numbers.
+6. Find the largest digit in a given number.
+7. Find the smallest digit in a given number.
+8. Count the number of digits in a number without using loops (use log10).
+9. Reverse a number without converting it to string.
+10. Calculate power of a number without using pow() function.
+11. Find factorial of a number using recursion.
+12. Find factorial of a number without recursion.
+13. Generate first N terms of Fibonacci series using recursion.
+14. Generate first N terms of Fibonacci series without recursion.
+15. Calculate GCD (HCF) of two numbers.
+16. Calculate LCM of two numbers.
+17. Check if two numbers are co-prime.
+18. Convert binary number to decimal.
+19. Convert decimal number to binary.
+20. Convert decimal number to octal.
+21. Convert decimal number to hexadecimal.
+22. Convert binary number to hexadecimal.
+23. Convert hexadecimal number to binary.
+24. Count frequency of each digit in a number.
+25. Swap two numbers without using a third variable.
+26. Swap two numbers using a third variable.
+27. Find sum of elements above the main diagonal in a matrix.
+28. Find sum of elements below the main diagonal in a matrix.
+29. Transpose a matrix.
+30. Multiply two matrices.
+31. Find the determinant of a 2x2 matrix.
+32. Find the determinant of a 3x3 matrix.
+33. Check if a matrix is symmetric.
+34. Check if a matrix is diagonal.
+35. Count the number of uppercase letters in a string.
+36. Count the number of lowercase letters in a string.
+37. Count the number of words in a string.
+38. Replace all spaces in a string with hyphens.
+39. Remove all vowels from a string.
+40. Remove all consonants from a string.
+41. Remove extra spaces from a string.
+42. Reverse each word in a string individually.
+43. Reverse the order of words in a string.
+44. Check if two strings are anagrams.
+45. Sort characters of a string in ascending order.
+46. Sort characters of a string in descending order.
+47. Find the second largest element in an array.
+48. Find the second smallest element in an array.
+49. Check if an array is sorted.
+50. Find the median of an array.

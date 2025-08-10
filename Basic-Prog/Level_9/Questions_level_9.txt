@@ -1,0 +1,50 @@
+1. Print 3D pyramid pattern of numbers.
+2. Print cube pattern of numbers.
+3. Print Sierpinski triangle pattern.
+4. Print Hilbert curve pattern (text representation).
+5. Generate Pascal’s Tetrahedron numbers.
+6. Find all super primes up to N.
+7. Check if a number is a super prime.
+8. Find all Sophie Germain primes up to N.
+9. Check if a number is a Sophie Germain prime.
+10. Find all Ramanujan numbers below N.
+11. Check if a number is a Ramanujan number.
+12. Generate first N pentagonal numbers.
+13. Generate first N hexagonal numbers.
+14. Generate first N heptagonal numbers.
+15. Generate first N octagonal numbers.
+16. Find nth pentagonal number.
+17. Find nth hexagonal number.
+18. Find nth heptagonal number.
+19. Find nth octagonal number.
+20. Find Euler’s totient function for a number.
+21. Find Euler’s totient function for all numbers up to N.
+22. Implement segmented sieve of Eratosthenes.
+23. Find Goldbach partitions of a number.
+24. Count number of Goldbach partitions between 1 and N.
+25. Find all abundant numbers up to N.
+26. Find all deficient numbers up to N.
+27. Find all weird numbers up to N.
+28. Check if a number is weird.
+29. Find all happy primes up to N.
+30. Find all palindromic primes up to N.
+31. Find all emirp numbers up to N.
+32. Check if a number is emirp.
+33. Implement matrix exponentiation.
+34. Multiply two very large numbers represented as strings.
+35. Add two very large numbers represented as strings.
+36. Subtract two very large numbers represented as strings.
+37. Multiply two very large numbers represented as strings.
+38. Divide two very large numbers represented as strings.
+39. Implement FFT for polynomial multiplication.
+40. Implement Karatsuba multiplication.
+41. Implement Manacher’s algorithm for longest palindrome.
+42. Implement suffix array construction.
+43. Implement suffix tree (basic version).
+44. Find Burrows-Wheeler transform of a string.
+45. Reverse Burrows-Wheeler transform.
+46. Find minimal period of a string.
+47. Find lexicographically smallest rotation of a string.
+48. Implement minimal string rotation algorithm (Booth’s).
+49. Find maximum overlap of two strings.
+50. Implement rolling hash to compare substrings.

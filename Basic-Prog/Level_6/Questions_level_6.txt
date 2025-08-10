@@ -1,0 +1,50 @@
+1. Print Pascal’s Triangle using recursion.
+2. Print diamond pattern with numbers.
+3. Print hourglass pattern with numbers.
+4. Print hollow butterfly pattern.
+5. Check if a number is a palindrome without converting to string.
+6. Find all palindromic numbers between 1 and N.
+7. Check if a number is a circular prime.
+8. Find all circular primes between 1 and N.
+9. Check if a number is a Smith number.
+10. Find all Smith numbers between 1 and N.
+11. Check if a number is a Carmichael number.
+12. Check if a number is a Mersenne prime.
+13. Generate first N Mersenne primes.
+14. Check if a number is a Fibonacci number.
+15. Generate first N Lucas numbers.
+16. Check if a number is a Lucas number.
+17. Check if a number is a Keith number.
+18. Find all Keith numbers between 1 and N.
+19. Find sum of digits of factorial of a number.
+20. Find factorial of very large number using arrays.
+21. Implement merge sort.
+22. Implement quick sort.
+23. Implement heap sort.
+24. Find GCD of more than two numbers.
+25. Find LCM of more than two numbers.
+26. Remove duplicates from a sorted array.
+27. Find the first missing positive integer in an array.
+28. Find the maximum subarray sum (Kadane’s algorithm).
+29. Find the maximum circular subarray sum.
+30. Find the minimum subarray sum.
+31. Count number of subarrays with a given sum.
+32. Find the longest increasing subsequence.
+33. Find the longest decreasing subsequence.
+34. Find the longest consecutive sequence in an array.
+35. Find the maximum product subarray.
+36. Rotate matrix by 180 degrees.
+37. Rotate matrix by 270 degrees.
+38. Check if two matrices are equal.
+39. Search an element in a sorted matrix.
+40. Find row with maximum sum in a matrix.
+41. Find column with maximum sum in a matrix.
+42. Find row with minimum sum in a matrix.
+43. Find column with minimum sum in a matrix.
+44. Remove all occurrences of a character from a string.
+45. Find the most repeated word in a string.
+46. Count number of substrings in a string.
+47. Find the longest substring without repeating characters.
+48. Find the shortest substring containing all vowels.
+49. Find all permutations of a string.
+50. Find all combinations of characters in a string.

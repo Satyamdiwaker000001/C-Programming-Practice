@@ -1,0 +1,50 @@
+1. Print a pyramid pattern of numbers aligned to the right.
+2. Print a hollow half-pyramid using numbers.
+3. Print an inverted pyramid pattern of stars.
+4. Print Pascal’s Triangle with spaces properly aligned.
+5. Generate a checkerboard pattern using stars.
+6. Print numbers in spiral form for an NxN matrix.
+7. Find the sum of the main and secondary diagonals in a matrix.
+8. Replace all 0’s in an integer array with 1’s.
+9. Replace all negative numbers in an array with 0.
+10. Find the first repeating element in an array.
+11. Find the last repeating element in an array.
+12. Find the first non-repeating element in an array.
+13. Check if an array contains duplicate elements.
+14. Merge two unsorted arrays and sort the result.
+15. Find the Kth largest element in an array.
+16. Find the Kth smallest element in an array.
+17. Implement linear search recursively.
+18. Implement binary search recursively.
+19. Implement bubble sort recursively.
+20. Sort an array of strings alphabetically.
+21. Find the sum of all prime numbers in an array.
+22. Find the product of all even numbers in an array.
+23. Check if a matrix is upper triangular.
+24. Check if a matrix is lower triangular.
+25. Find the transpose of a matrix without extra space.
+26. Swap two rows in a matrix.
+27. Swap two columns in a matrix.
+28. Remove all spaces from a string without using extra array.
+29. Remove all digits from a string.
+30. Remove all special characters from a string.
+31. Count the number of punctuation marks in a string.
+32. Find the frequency of each vowel in a string.
+33. Count the number of palindrome words in a string.
+34. Check if a sentence is a pangram.
+35. Replace a word in a string with another word.
+36. Replace all vowels in a string with a specific character.
+37. Convert a string to title case.
+38. Sort characters in a string using bubble sort.
+39. Check if a string contains only digits.
+40. Check if a string contains only alphabets.
+41. Check if a string contains only alphanumeric characters.
+42. Reverse an array without using another array.
+43. Reverse a matrix horizontally.
+44. Reverse a matrix vertically.
+45. Multiply two matrices recursively.
+46. Add two polynomials represented as arrays.
+47. Multiply two polynomials represented as arrays.
+48. Evaluate a polynomial for a given value of x.
+49. Find sum of series: 1/1! + 1/2! + ... + 1/n!
+50. Find sum of series: x - x³/3! + x⁵/5! - ...

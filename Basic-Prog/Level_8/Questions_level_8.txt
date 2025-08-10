@@ -1,0 +1,50 @@
+1. Print Pascal’s Triangle using dynamic programming.
+2. Print hollow hourglass with stars.
+3. Print diamond with alphabets.
+4. Print zig-zag alphabet pattern.
+5. Print concentric circles pattern using characters.
+6. Check if a number is a strobogrammatic number.
+7. Generate all strobogrammatic numbers of given length.
+8. Check if a number is a Lychrel number.
+9. Find all Lychrel numbers below N.
+10. Find the digital factorial sum of a number.
+11. Find the factorial of a number modulo m.
+12. Compute modular exponentiation.
+13. Check if two numbers are amicable numbers.
+14. Find all amicable pairs up to N.
+15. Check if a number is a sociable number.
+16. Generate first N Fermat numbers.
+17. Generate first N Catalan numbers.
+18. Find the nth Catalan number.
+19. Find Bell numbers up to N.
+20. Find the nth Bell number.
+21. Find Tribonacci numbers up to N.
+22. Find Tetranacci numbers up to N.
+23. Implement counting sort.
+24. Implement radix sort.
+25. Implement bucket sort.
+26. Find kth smallest element using quickselect.
+27. Find kth largest element using quickselect.
+28. Check if array is palindrome.
+29. Find number of rotations in a rotated sorted array.
+30. Search in an almost sorted array.
+31. Search in infinite sorted array.
+32. Find ceiling of a number in a sorted array.
+33. Find floor of a number in a sorted array.
+34. Find closest element to a given number in array.
+35. Find index of first 1 in a binary sorted array.
+36. Find index of last 1 in a binary sorted array.
+37. Implement 2D prefix sum array.
+38. Find sum of submatrix in O(1) using prefix sum.
+39. Implement string hashing.
+40. Implement Rabin-Karp string search.
+41. Implement Z algorithm for string matching.
+42. Find longest repeated substring in a string.
+43. Find longest palindromic subsequence.
+44. Find shortest common supersequence of two strings.
+45. Find longest common substring.
+46. Find longest common subsequence.
+47. Find number of distinct substrings in a string.
+48. Find number of palindromic substrings in a string.
+49. Convert number to words (Indian system).
+50. Convert number to words (International system).

@@ -1,0 +1,51 @@
+1. Print Pascal’s Triangle up to N rows.
+2. Print Floyd’s Triangle with consecutive numbers.
+3. Print a diamond pattern using stars.
+4. Print a hollow square pattern.
+5. Print a hollow triangle pattern.
+6. Print a number pyramid.
+7. Print a palindrome pyramid of numbers.
+8. Generate all prime numbers using Sieve of Eratosthenes.
+9. Find the sum of first N prime numbers.
+10. Check if a number is a strong number.
+11. Print all strong numbers between 1 and 1000.
+12. Find the sum of digits until it becomes a single digit (digital root).
+13. Convert Roman numeral to decimal.
+14. Convert decimal to Roman numeral.
+15. Check if a number is a happy number.
+16. Find sum of cubes of digits of a number.
+17. Print all perfect numbers between 1 and 10000.
+18. Check if a number is a perfect number.
+19. Count how many perfect squares are between two given numbers.
+20. Find the nth prime number.
+21. Merge two sorted arrays into a single sorted array.
+22. Rotate an array to the left by K positions.
+23. Rotate an array to the right by K positions.
+24. Find the majority element in an array.
+25. Find the mode of an array.
+26. Remove duplicate elements from an array.
+27. Count the frequency of each element in an array.
+28. Find the intersection of two arrays.
+29. Find the union of two arrays.
+30. Find the difference of two arrays.
+31. Sort an array using bubble sort.
+32. Sort an array using selection sort.
+33. Sort an array using insertion sort.
+34. Search an element using binary search.
+35. Search an element using linear search.
+36. Count total number of vowels and consonants in a string.
+37. Capitalize the first letter of each word in a string.
+38. Remove duplicate characters from a string.
+39. Find the longest word in a string.
+40. Find the shortest word in a string.
+41. Replace all digits in a string with '*'.
+42. Replace all special characters in a string with space.
+43. Find the first non-repeating character in a string.
+44. Find the last non-repeating character in a string.
+45. Reverse a string using recursion.
+46. Find length of a string without using strlen().
+47. Check if one string is a rotation of another.
+48. Check if one string is a subsequence of another.
+49. Find the longest common prefix among an array of strings.
+50. Find the longest common suffix among an array of strings.
+51. Check if a string is a palindrome.
