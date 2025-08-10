@@ -1,0 +1,28 @@
+name: Update README Progress
+
+on:
+  push:
+    paths:
+      - "**/*.c"
+      - README.md
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run update_readme.py
+        run: python update_readme.py
+
+      - name: Commit README if changed
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update README progress [skip ci]
+          file_pattern: README.md
