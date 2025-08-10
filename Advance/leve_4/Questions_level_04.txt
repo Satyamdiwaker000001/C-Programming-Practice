@@ -1,0 +1,50 @@
+1. Modular exponentiation with large exponents.
+2. Fermat’s Little Theorem applications.
+3. Euler’s Totient Function.
+4. Precompute totients up to N.
+5. Find primitive root modulo n.
+6. Count primitive roots modulo n.
+7. Baby-step giant-step algorithm for discrete log.
+8. Miller-Rabin primality test.
+9. Deterministic Miller-Rabin for 64-bit integers.
+10. Pollard’s Rho factorization.
+11. Pollard’s Rho with Brent’s cycle detection.
+12. Lucas primality test.
+13. Generate all divisors of a number.
+14. Count divisors for all numbers up to N.
+15. Sum of divisors for all numbers up to N.
+16. Möbius function computation.
+17. Inclusion-Exclusion Principle for counting coprimes.
+18. Count numbers coprime to n up to m.
+19. Modular inverse for all numbers up to N.
+20. Modular inverse using Fermat’s theorem.
+21. Modular inverse using Extended Euclidean.
+22. Binomial coefficient modulo prime.
+23. Lucas Theorem.
+24. Catalan numbers modulo m.
+25. Stirling numbers of first kind.
+26. Stirling numbers of second kind.
+27. Bell numbers.
+28. Derangements count.
+29. Burnside’s Lemma for counting colorings.
+30. Pólya’s Enumeration Theorem.
+31. KMP string matching.
+32. Z-algorithm for pattern matching.
+33. Rabin-Karp string matching.
+34. Aho-Corasick automaton for multiple patterns.
+35. Suffix array construction.
+36. Suffix automaton construction.
+37. Longest common substring using suffix array.
+38. Longest repeated substring using suffix array.
+39. Longest palindrome substring using Manacher’s algorithm.
+40. Palindromic tree (Eertree) construction.
+41. Count distinct substrings using suffix automaton.
+42. Count distinct substrings using trie.
+43. Minimal string rotation (Booth’s algorithm).
+44. Lyndon factorization.
+45. Lexicographically smallest rotation of a string.
+46. Lexicographically largest rotation of a string.
+47. Burrows–Wheeler transform.
+48. Inverse Burrows–Wheeler transform.
+49. FM-index for substring queries.
+50. String hashing (double hashing).

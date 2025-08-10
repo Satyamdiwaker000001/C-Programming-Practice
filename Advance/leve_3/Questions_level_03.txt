@@ -1,0 +1,50 @@
+1. Minimum cost path in weighted grid.
+2. K shortest paths in a graph.
+3. Yen’s algorithm for K shortest paths.
+4. Johnson’s algorithm for all-pairs shortest paths.
+5. Minimum cost to connect all points (Euclidean MST).
+6. Minimum cost to make graph connected.
+7. Detect cycle in directed graph using Union-Find.
+8. Minimum number of edges to make graph strongly connected.
+9. Count different shortest paths between two nodes.
+10. Minimum number of edges to convert graph to DAG.
+11. Tree diameter using DFS twice.
+12. Tree centroid.
+13. Tree center.
+14. Tree isomorphism.
+15. DP on trees – maximum sum path.
+16. DP on trees – vertex cover.
+17. DP on trees – independent set.
+18. DP on trees – subtree sizes.
+19. Find articulation bridges in O(V+E).
+20. Heavy-Light Decomposition.
+21. Centroid Decomposition.
+22. Binary lifting for LCA queries.
+23. LCA using Euler tour + RMQ.
+24. DSU with rollback.
+25. DSU with path compression.
+26. Offline queries using DSU.
+27. Min-Cut in graph (Stoer–Wagner algorithm).
+28. Max Flow (Ford-Fulkerson).
+29. Max Flow (Edmonds-Karp).
+30. Max Flow (Dinic’s algorithm).
+31. Minimum cost maximum flow.
+32. Hopcroft–Karp algorithm for bipartite matching.
+33. Hungarian algorithm for assignment problem.
+34. Stable marriage problem.
+35. Kuhn’s algorithm for bipartite matching.
+36. Blossom algorithm for general matching.
+37. Find bridges in directed graph.
+38. 2-SAT problem (implication graph).
+39. Minimum vertex cover in bipartite graph.
+40. Maximum independent set in bipartite graph.
+41. Minimum edge cover in bipartite graph.
+42. Count perfect matchings in bipartite graph.
+43. Count all matchings in bipartite graph.
+44. Graph condensation.
+45. Arborescence in directed graph.
+46. Minimum feedback vertex set.
+47. Minimum feedback edge set.
+48. Find k-edge-connected components.
+49. Find k-vertex-connected components.
+50. Minimum spanning arborescence.

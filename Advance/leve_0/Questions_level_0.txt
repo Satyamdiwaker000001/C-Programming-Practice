@@ -1,0 +1,50 @@
+1. Implement fast modular exponentiation.
+2. Implement extended Euclidean algorithm.
+3. Find modular inverse of a number.
+4. Implement Sieve of Eratosthenes.
+5. Implement segmented sieve.
+6. Count number of primes in range.
+7. Prime factorization using trial division.
+8. Prime factorization using sieve.
+9. Find GCD of array using divide and conquer.
+10. Find LCM of array.
+11. Check if a number is a perfect square in O(1).
+12. Find nth Fibonacci number using matrix exponentiation.
+13. Find nth Fibonacci number using fast doubling.
+14. Find sum of Fibonacci numbers in range.
+15. Check if a number is a power of two.
+16. Find highest power of 2 less than or equal to n.
+17. Count trailing zeros in factorial.
+18. Find nCr modulo m.
+19. Find nPr modulo m.
+20. Compute binomial coefficients using Pascal’s triangle.
+21. Implement inclusion-exclusion principle.
+22. Implement Chinese Remainder Theorem.
+23. Implement binary search on answer problems.
+24. Minimize maximum distance between gas stations (binary search on real numbers).
+25. Allocate minimum number of pages problem.
+26. Aggressive cows problem.
+27. Painter’s partition problem.
+28. Job scheduling with deadlines and profits.
+29. Minimum number of platforms for trains.
+30. Find Kth smallest element using quickselect.
+31. Find Kth largest element using heaps.
+32. Sliding window maximum.
+33. Sliding window minimum.
+34. Longest subarray with sum ≤ k.
+35. Longest substring with at most K distinct characters.
+36. Smallest substring containing all characters of another string.
+37. Count distinct substrings of a string.
+38. Count palindromic substrings.
+39. Longest palindromic subsequence.
+40. Minimum insertions to make string palindrome.
+41. Edit distance between two strings.
+42. Minimum number of deletions to make two strings equal.
+43. Maximum sum increasing subsequence.
+44. Longest bitonic subsequence.
+45. Matrix chain multiplication.
+46. Boolean parenthesization problem.
+47. Egg dropping problem.
+48. Rod cutting problem.
+49. Coin change (min coins).
+50. Coin change (count ways).

@@ -1,0 +1,50 @@
+1. Convex hull (Graham scan).
+2. Convex hull (Andrew’s monotone chain).
+3. Rotating calipers for diameter of convex polygon.
+4. Closest pair of points (O(n log n)).
+5. Farthest pair of points in set.
+6. Check if point lies inside convex polygon.
+7. Check if point lies inside arbitrary polygon (ray casting).
+8. Line segment intersection.
+9. Count intersections among line segments.
+10. Sweep line algorithm for intersection detection.
+11. Voronoi diagram construction.
+12. Delaunay triangulation.
+13. Minimum enclosing circle.
+14. Minimum bounding rectangle.
+15. Minkowski sum of two polygons.
+16. Polygon area using shoelace formula.
+17. Triangulation of convex polygon.
+18. Minimum weight triangulation.
+19. Circle-circle intersection points.
+20. Circle-line intersection points.
+21. Circle tangent lines.
+22. Smallest enclosing circle of points.
+23. Convex polygon cut by a line.
+24. Half-plane intersection.
+25. Point location in planar subdivision.
+26. Segment tree for range queries.
+27. Lazy propagation in segment tree.
+28. Persistent segment tree.
+29. Merge sort tree.
+30. Fenwick tree for prefix sums.
+31. Fenwick tree for range updates.
+32. Binary indexed tree 2D.
+33. Li Chao segment tree for line queries.
+34. Range minimum query using sparse table.
+35. Lowest common ancestor using RMQ.
+36. Mo’s algorithm for offline queries.
+37. Mo’s algorithm with updates.
+38. Centroid path decomposition.
+39. Dynamic convex hull trick.
+40. Dynamic programming on bitmasks.
+41. Bitmask DP for traveling salesman problem.
+42. Bitmask DP for subset optimization.
+43. DP with SOS (Sum over Subsets).
+44. Meet-in-the-middle for subset sum.
+45. Meet-in-the-middle for knapsack.
+46. Parallel binary search technique.
+47. Matrix exponentiation for linear recurrence.
+48. Matrix inversion using Gaussian elimination.
+49. FFT (Fast Fourier Transform) for polynomial multiplication.
+50. NTT (Number Theoretic Transform) for polynomial multiplication.

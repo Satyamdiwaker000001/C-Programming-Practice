@@ -1,0 +1,50 @@
+1. 0/1 Knapsack problem.
+2. Fractional knapsack problem.
+3. Subset sum problem.
+4. Partition equal subset sum.
+5. Count subsets with given sum.
+6. Minimum subset sum difference.
+7. Target sum problem.
+8. Unbounded knapsack.
+9. Minimum cost to reach end in a grid.
+10. Minimum path sum in a triangle.
+11. Unique paths in a grid.
+12. Unique paths with obstacles.
+13. Cherry pickup problem.
+14. Minimum jumps to reach end of array.
+15. Maximum product subarray.
+16. Kadane’s algorithm for maximum subarray.
+17. Maximum circular subarray sum.
+18. Maximum sum rectangle in a matrix.
+19. Largest square of 1’s in binary matrix.
+20. Minimum number of squares to represent n.
+21. Longest common subsequence.
+22. Shortest common supersequence.
+23. Count distinct subsequences.
+24. Longest alternating subsequence.
+25. Minimum cost to cut a stick.
+26. Optimal binary search tree.
+27. Minimum number of multiplications to reach target.
+28. Count binary strings without consecutive 1s.
+29. Decode ways problem.
+30. Word break problem.
+31. Frog jump problem.
+32. House robber problem.
+33. House robber circular problem.
+34. Burst balloons problem.
+35. Maximum profit in job scheduling.
+36. Weighted interval scheduling.
+37. Find LIS in O(n log n).
+38. Count LIS.
+39. Minimum swaps to sort array.
+40. Minimum adjacent swaps to make palindrome.
+41. Count inversions in array.
+42. Median of two sorted arrays in O(log n).
+43. Find kth smallest pair distance.
+44. Count triplets with sum less than target.
+45. Count quadruples with sum zero.
+46. Count subarrays with product less than k.
+47. Count subarrays divisible by k.
+48. Count subarrays with sum equal to k.
+49. Find subarray with given XOR.
+50. Maximum XOR of two numbers in array.

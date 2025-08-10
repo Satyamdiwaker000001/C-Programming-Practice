@@ -1,0 +1,50 @@
+1. BFS traversal of a graph.
+2. DFS traversal of a graph.
+3. Check if a graph is connected.
+4. Count connected components in an undirected graph.
+5. Detect cycle in an undirected graph using DFS.
+6. Detect cycle in an undirected graph using Union-Find.
+7. Detect cycle in a directed graph using DFS.
+8. Topological sort (DFS).
+9. Topological sort (Kahn’s algorithm).
+10. Check if a graph is bipartite (BFS).
+11. Check if a graph is bipartite (DFS).
+12. Shortest path in unweighted graph (BFS).
+13. Shortest path in weighted graph (Dijkstra).
+14. Shortest path from every node to every other node (Floyd-Warshall).
+15. Shortest path from single source in DAG.
+16. Bellman-Ford algorithm.
+17. Detect negative cycle in a graph.
+18. Minimum spanning tree using Prim’s.
+19. Minimum spanning tree using Kruskal’s.
+20. Count number of bridges in a graph.
+21. Count number of articulation points in a graph.
+22. Eulerian circuit in a graph.
+23. Eulerian path in a graph.
+24. Hamiltonian path in a graph.
+25. Hamiltonian cycle in a graph.
+26. Find strongly connected components (Kosaraju’s algorithm).
+27. Find strongly connected components (Tarjan’s algorithm).
+28. Transpose of a directed graph.
+29. Clone a graph.
+30. Find number of islands in a grid.
+31. Rotten oranges problem.
+32. Minimum steps to reach target in grid (BFS).
+33. Knight’s shortest path in chessboard.
+34. Minimum steps to convert matrix into target matrix.
+35. Word ladder problem.
+36. Word ladder II (all shortest transformations).
+37. Check if graph is tree.
+38. Count paths between two vertices.
+39. Find mother vertex in a graph.
+40. Check if removing a vertex disconnects graph.
+41. Check if removing an edge disconnects graph.
+42. Count cycles of length 3 in a graph.
+43. Count cycles of length k in a graph.
+44. Find diameter of a tree.
+45. Lowest common ancestor in a tree (binary lifting).
+46. Distance between two nodes in a tree.
+47. Check if a graph is planar.
+48. Graph coloring problem.
+49. Assign directions to edges so graph becomes strongly connected.
+50. Reconstruct itinerary from flight tickets.
