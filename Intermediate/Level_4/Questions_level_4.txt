@@ -1,0 +1,61 @@
+1. Implement AVL tree.
+2. Insert in AVL tree.
+3. Delete from AVL tree.
+4. Search in AVL tree.
+5. Find height of AVL tree.
+6. Implement Red-Black tree.
+7. Insert in Red-Black tree.
+8. Delete from Red-Black tree.
+9. Search in Red-Black tree.
+10. Implement B-Tree.
+11. Insert in B-Tree.
+12. Delete from B-Tree.
+13. Search in B-Tree.
+14. Implement Binary Heap.
+15. Insert in Binary Heap.
+16. Delete from Binary Heap.
+17. Heapify an array.
+18. Find max in Max Heap.
+19. Find min in Min Heap.
+20. Implement Dijkstra’s shortest path algorithm.
+21. Implement Bellman-Ford algorithm.
+22. Implement Floyd-Warshall algorithm.
+23. Implement Prim’s algorithm.
+24. Implement Kruskal’s algorithm.
+25. Implement BFS for a graph.
+26. Implement DFS for a graph.
+27. Detect cycle in a graph (BFS).
+28. Detect cycle in a graph (DFS).
+29. Find connected components in a graph.
+30. Check if a graph is bipartite.
+31. Topological sort using DFS.
+32. Topological sort using BFS (Kahn’s Algorithm).
+33. Implement adjacency matrix for a graph.
+34. Implement adjacency list for a graph.
+35. Convert adjacency matrix to adjacency list.
+36. Convert adjacency list to adjacency matrix.
+37. Count number of edges in a graph.
+38. Count number of vertices in a graph.
+39. Implement Union-Find (Disjoint Set).
+40. Detect cycle in undirected graph using Union-Find.
+41. Find MST using Union-Find and Kruskal’s algorithm.
+42. Implement hashing with separate chaining.
+43. Implement hashing with linear probing.
+44. Implement hashing with quadratic probing.
+45. Implement double hashing.
+46. Count frequency of words using hash table.
+47. Check if two strings are anagrams using hashing.
+48. Find first non-repeating character in string using hashing.
+49. Find first repeating character in string using hashing.
+50. Implement trie data structure.
+51. Insert word in trie.
+52. Search word in trie.
+53. Delete word from trie.
+54. Count total words in trie.
+55. Auto-complete using trie.
+56. Implement bitwise AND, OR, XOR without using operators.
+57. Find single number in array where every element appears twice except one.
+58. Find two numbers in array whose XOR is maximum.
+59. Swap two numbers without using third variable (bitwise).
+60. Count set bits in an integer.
+61. Reverse bits of an integer.

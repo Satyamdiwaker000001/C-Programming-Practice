@@ -1,0 +1,65 @@
+1. Write a function to calculate factorial using recursion.
+2. Write a function to calculate Fibonacci series using recursion.
+3. Write a function to calculate GCD using recursion.
+4. Write a function to calculate power using recursion.
+5. Write a function to reverse a string using recursion.
+6. Write a function to check palindrome using recursion.
+7. Write a function to sum digits of a number using recursion.
+8. Write a function to find LCM using recursion.
+9. Write a function to convert decimal to binary using recursion.
+10. Write a function to count vowels in a string using recursion.
+11. Implement a program to read and write to a file.
+12. Copy contents of one file to another.
+13. Count number of lines in a file.
+14. Count number of words in a file.
+15. Count number of characters in a file.
+16. Count frequency of a character in a file.
+17. Count frequency of each word in a file.
+18. Replace a word in a file.
+19. Append text to a file.
+20. Merge two files.
+21. Split a file into two.
+22. Remove blank lines from a file.
+23. Encrypt file content using a basic cipher.
+24. Decrypt file content using the cipher.
+25. Store student details in a file.
+26. Read student details from a file.
+27. Search student by roll number in file.
+28. Update student record in file.
+29. Delete student record in file.
+30. Sort records in a file by name.
+31. Sort records in a file by marks.
+32. Implement a structure for student data and store it in a file.
+33. Implement an array of structures for employee records.
+34. Sort employee records by salary.
+35. Find employee with highest salary.
+36. Find employee with lowest salary.
+37. Count employees above a certain salary.
+38. Count employees below a certain salary.
+39. Merge two sorted employee record arrays.
+40. Search employee by ID using binary search.
+41. Search employee by name using linear search.
+42. Store book details in a file.
+43. Search book by ISBN in a file.
+44. Sort books by price.
+45. Sort books by title.
+46. Store movie details in a file.
+47. Sort movies by rating.
+48. Search movie by title.
+49. Store product inventory in a file.
+50. Update product quantity in a file.
+51. Delete product record from file.
+52. Store marks of students in a file and calculate average.
+53. Find highest marks in a file.
+54. Find lowest marks in a file.
+55. Store date and time logs in a file.
+56. Store and retrieve passwords from a file (basic encryption).
+57. Compare two files line by line.
+58. Compare two files word by word.
+59. Compare two files character by character.
+60. Check if two files are identical.
+61. Create a binary file and write data to it.
+62. Read data from a binary file.
+63. Append data to a binary file.
+64. Update record in a binary file.
+65. Delete record from a binary file.

@@ -1,0 +1,60 @@
+1. Allocate memory dynamically for an array.
+2. Allocate memory dynamically for a string.
+3. Allocate memory dynamically for a matrix.
+4. Reallocate memory for an array.
+5. Free dynamically allocated memory.
+6. Create a structure for a complex number.
+7. Add two complex numbers using structure.
+8. Subtract two complex numbers using structure.
+9. Multiply two complex numbers using structure.
+10. Divide two complex numbers using structure.
+11. Store multiple complex numbers in an array of structures.
+12. Create a structure for time (hours, minutes, seconds).
+13. Add two time values.
+14. Subtract two time values.
+15. Create a structure for a fraction.
+16. Add two fractions.
+17. Subtract two fractions.
+18. Multiply two fractions.
+19. Divide two fractions.
+20. Reduce a fraction to lowest form.
+21. Create a structure for a point (x, y).
+22. Calculate distance between two points.
+23. Find midpoint between two points.
+24. Check if three points are collinear.
+25. Create a structure for a rectangle.
+26. Calculate area of rectangle.
+27. Calculate perimeter of rectangle.
+28. Check if two rectangles overlap.
+29. Create a structure for a circle.
+30. Calculate area of circle.
+31. Calculate circumference of circle.
+32. Check if two circles intersect.
+33. Create a structure for a triangle.
+34. Calculate area of triangle using Heron’s formula.
+35. Check if triangle is equilateral.
+36. Check if triangle is isosceles.
+37. Check if triangle is scalene.
+38. Check if triangle is right-angled.
+39. Create a structure for date.
+40. Check if year is leap year.
+41. Find difference between two dates.
+42. Add days to a date.
+43. Subtract days from a date.
+44. Create a structure for a student with nested structures.
+45. Create a structure for an employee with nested structures.
+46. Create an array of pointers to structures.
+47. Sort array of pointers to structures.
+48. Search in array of pointers to structures.
+49. Create a linked list of structures.
+50. Delete a node from linked list of structures.
+51. Update a node in linked list of structures.
+52. Count nodes in linked list of structures.
+53. Create a dynamic stack using linked list.
+54. Create a dynamic queue using linked list.
+55. Implement priority queue using linked list.
+56. Create a binary search tree with structure nodes.
+57. Insert a node in BST.
+58. Delete a node from BST.
+59. Search a node in BST.
+60. Traverse BST in inorder, preorder, postorder.

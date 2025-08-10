@@ -1,0 +1,62 @@
+1. Implement doubly linked list.
+2. Insert node at beginning in doubly linked list.
+3. Insert node at end in doubly linked list.
+4. Insert node at given position in doubly linked list.
+5. Delete node from beginning in doubly linked list.
+6. Delete node from end in doubly linked list.
+7. Delete node from given position in doubly linked list.
+8. Reverse a doubly linked list.
+9. Count nodes in doubly linked list.
+10. Search in doubly linked list.
+11. Implement circular linked list.
+12. Insert in circular linked list.
+13. Delete from circular linked list.
+14. Traverse circular linked list.
+15. Implement stack using array.
+16. Implement stack using linked list.
+17. Push, pop, peek operations in stack.
+18. Implement queue using array.
+19. Implement queue using linked list.
+20. Implement circular queue.
+21. Implement dequeue (double-ended queue).
+22. Evaluate postfix expression using stack.
+23. Evaluate prefix expression using stack.
+24. Convert infix to postfix.
+25. Convert infix to prefix.
+26. Convert prefix to infix.
+27. Convert postfix to infix.
+28. Implement Tower of Hanoi.
+29. Implement factorial using recursion.
+30. Implement Fibonacci using recursion.
+31. Implement GCD using recursion.
+32. Implement binary search using recursion.
+33. Implement linear search using recursion.
+34. Reverse a string using recursion.
+35. Check palindrome using recursion.
+36. Count digits using recursion.
+37. Sum digits using recursion.
+38. Power of number using recursion.
+39. Find min element in array using recursion.
+40. Find max element in array using recursion.
+41. Count even numbers in array using recursion.
+42. Count odd numbers in array using recursion.
+43. Find sum of array using recursion.
+44. Reverse an array using recursion.
+45. Implement bubble sort using recursion.
+46. Implement selection sort using recursion.
+47. Implement insertion sort using recursion.
+48. Implement quick sort.
+49. Implement merge sort.
+50. Implement heap sort.
+51. Implement counting sort.
+52. Implement radix sort.
+53. Implement shell sort.
+54. Implement binary search tree.
+55. Traverse BST in inorder.
+56. Traverse BST in preorder.
+57. Traverse BST in postorder.
+58. Search in BST.
+59. Insert in BST.
+60. Delete in BST.
+61. Find min and max in BST.
+62. Find height of BST.

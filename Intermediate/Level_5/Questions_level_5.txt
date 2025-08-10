@@ -1,0 +1,61 @@
+1. Implement segment tree for sum query.
+2. Implement segment tree for min query.
+3. Implement segment tree for max query.
+4. Update element in segment tree.
+5. Implement Fenwick tree (Binary Indexed Tree) for sum.
+6. Update element in Fenwick tree.
+7. Implement sparse table for RMQ.
+8. Implement KMP string matching algorithm.
+9. Implement Rabin-Karp string matching algorithm.
+10. Implement Z algorithm for pattern matching.
+11. Implement Boyer-Moore string matching algorithm.
+12. Find longest common prefix (LCP) of strings.
+13. Implement suffix array.
+14. Implement suffix tree.
+15. Find longest repeating substring.
+16. Find longest palindrome substring.
+17. Implement Manacher’s algorithm for palindrome.
+18. Implement Aho-Corasick string matching.
+19. Implement LRU cache using linked list.
+20. Implement LFU cache.
+21. Implement circular buffer.
+22. Implement memory pool allocator.
+23. Implement garbage collection simulation.
+24. Implement bloom filter.
+25. Implement skip list.
+26. Implement graph coloring algorithm.
+27. Solve N-Queens problem.
+28. Solve Sudoku using backtracking.
+29. Solve Rat in a Maze problem.
+30. Solve Knight’s Tour problem.
+31. Implement backtracking for word search in matrix.
+32. Find Hamiltonian cycle in a graph.
+33. Find Eulerian path in a graph.
+34. Find articulation points in a graph.
+35. Find bridges in a graph.
+36. Implement Tarjan’s algorithm for SCC.
+37. Implement Kosaraju’s algorithm for SCC.
+38. Count number of islands in a grid.
+39. Find shortest path in a maze using BFS.
+40. Find longest path in a maze using backtracking.
+41. Implement disjoint set with path compression.
+42. Implement disjoint set with union by rank.
+43. Implement K-way merge algorithm.
+44. Implement external merge sort for large files.
+45. Implement parallel quicksort.
+46. Implement parallel merge sort.
+47. Implement multi-threaded producer-consumer problem.
+48. Implement multi-threaded readers-writers problem.
+49. Implement dining philosophers problem.
+50. Implement banker’s algorithm for deadlock avoidance.
+51. Implement deadlock detection algorithm.
+52. Implement shortest job first (SJF) scheduling.
+53. Implement round-robin scheduling.
+54. Implement priority scheduling.
+55. Implement multilevel queue scheduling.
+56. Simulate page replacement (FIFO).
+57. Simulate page replacement (LRU).
+58. Simulate page replacement (Optimal).
+59. Implement buddy memory allocation.
+60. Implement slab allocator.
+61. Implement memory-mapped file.
