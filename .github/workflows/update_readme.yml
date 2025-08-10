@@ -1,14 +1,15 @@
-name: Update README Progress
+name: Update README
 
 on:
   push:
-    paths:
-      - "**/*.c"
-      - README.md
+    branches:
+      - main
+  workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -19,10 +20,13 @@ jobs:
           python-version: "3.x"
 
       - name: Run update_readme.py
-        run: python update_readme.py
+        run: python3 update_readme.py
 
-      - name: Commit README if changed
+      - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update README progress [skip ci]
           file_pattern: README.md
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+          token: ${{ secrets.PAT_TOKEN }}
