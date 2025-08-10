@@ -34,7 +34,8 @@ Every level contains **at least 60 coding problems** with `.c` solutions.
   - [NameAndAge.c](./Basic-Prog/Level_0/NameAndAge.c)
   - [NameAndRollNo.c](./Basic-Prog/Level_0/NameAndRollNo.c)
   - [SizeOfDatatypes.c](./Basic-Prog/Level_0/SizeOfDatatypes.c)
-  - *(56 solutions pending)*
+  - [ASCII_value.c](././Basic-Prog/Level_0/ASCII_value.c)
+  - *(55 solutions pending)*
 - **[Level_1](./Basic-Prog/level%201)** (❌ 0 / 60)
 - **[Level_2](./Basic-Prog/Level_2)** (❌ 0 / 60)
 - **[Level_3](./Basic-Prog/Level_3)** (❌ 0 / 60)
