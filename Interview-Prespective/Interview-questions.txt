@@ -1,0 +1,274 @@
+# 250 C Programming Questions – Interview Crash Course
+
+Curated from verified sources:  
+- [LeetCode Top Interview Questions](https://leetcode.com/explore/interview/card/top-interview-questions-easy/)  
+- [GeeksforGeeks C Interview Questions](https://www.geeksforgeeks.org/c/c-interview-questions/)  
+- [Tech Interview Handbook Patterns](https://www.techinterviewhandbook.org/best-practice-questions/)  
+- [Indeed Common C Interview Questions](https://www.indeed.com/career-advice/interviewing/common-c-interview-questions)  
+
+---
+
+## **A. Basic (80 Questions)**
+
+1. Why is C called a mid-level language? (GFG)  
+2. What are C’s basic data types? (GFG)  
+3. Explain tokens in C. (GFG)  
+4. What is variable scope? (GFG)  
+5. Describe preprocessor directives like `#define`, `#include` (GFG)  
+6. Difference between `malloc()` and `calloc()` (GFG)  
+7. Define dangling pointers vs. memory leaks (GFG)  
+8. Convert number to string using `sprintf()` (GFG)  
+9. What are syntax vs. runtime vs. logical errors? (Indeed)  
+10. Difference between source code vs. object code? (Indeed)  
+11. Print “Hello World” without semicolon  
+12. Swap two variables without using a third variable  
+13. Reverse a number  
+14. Reverse a string  
+15. Check if a number is prime  
+16. Generate first N Fibonacci numbers  
+17. Find factorial using loop  
+18. Find factorial using recursion  
+19. Check if a string is a palindrome  
+20. Find the largest of three numbers  
+21. Find the smallest of three numbers  
+22. Sum of digits of a number  
+23. Count number of digits in an integer  
+24. Find ASCII value of a character  
+25. Convert lowercase to uppercase without `toupper()`  
+26. Calculate area of a circle  
+27. Calculate area of a rectangle  
+28. Convert Celsius to Fahrenheit  
+29. Convert Fahrenheit to Celsius  
+30. Print multiplication table of a number  
+31. Find GCD of two numbers  
+32. Find LCM of two numbers  
+33. Swap two numbers using pointers  
+34. Access array elements using pointers  
+35. Find sum of array elements  
+36. Find average of array elements  
+37. Find second largest number in array  
+38. Sort array in ascending order (Bubble sort)  
+39. Sort array in descending order (Selection sort)  
+40. Linear search in an array  
+41. Binary search in an array  
+42. Count vowels in a string  
+43. Count consonants in a string  
+44. Find length of string without `strlen()`  
+45. Concatenate two strings without `strcat()`  
+46. Copy one string to another without `strcpy()`  
+47. Find frequency of a character in a string  
+48. Remove spaces from a string  
+49. Remove vowels from a string  
+50. Reverse words in a sentence  
+51. Calculate power of a number without `pow()`  
+52. Check leap year  
+53. Print Pascal’s triangle  
+54. Print Floyd’s triangle  
+55. Print diamond pattern  
+56. Print pyramid pattern  
+57. Print hollow square pattern  
+58. Print hollow pyramid  
+59. Convert decimal to binary  
+60. Convert binary to decimal  
+61. Convert decimal to octal  
+62. Convert octal to decimal  
+63. Convert decimal to hexadecimal  
+64. Convert hexadecimal to decimal  
+65. Find sum of first N natural numbers  
+66. Find sum of even numbers till N  
+67. Find sum of odd numbers till N  
+68. Generate Armstrong numbers within a range  
+69. Check if a number is Armstrong  
+70. Check if a number is Strong number  
+71. Print prime numbers in a range  
+72. Count prime numbers in a range  
+73. Generate first N prime numbers  
+74. Find sum of prime numbers till N  
+75. Display factors of a number  
+76. Count factors of a number  
+77. Find HCF and LCM using Euclidean algorithm  
+78. Reverse an array  
+79. Merge two arrays  
+80. Insert an element into an array at a position  
+
+---
+
+## **B. Intermediate (80 Questions)**
+
+81. Implement stack using array  
+82. Implement stack using linked list  
+83. Implement queue using array  
+84. Implement queue using linked list  
+85. Implement circular queue using array  
+86. Reverse a stack using recursion  
+87. Reverse a queue  
+88. Implement priority queue  
+89. Evaluate postfix expression using stack  
+90. Convert infix expression to postfix  
+91. Convert postfix to infix  
+92. Implement linked list insertion at beginning  
+93. Implement linked list insertion at end  
+94. Implement linked list deletion  
+95. Reverse a linked list (iterative)  
+96. Reverse a linked list (recursive)  
+97. Detect loop in a linked list  
+98. Remove loop in a linked list  
+99. Merge two sorted linked lists  
+100. Find middle element of a linked list  
+101. Implement doubly linked list  
+102. Reverse a doubly linked list  
+103. Implement circular linked list  
+104. Implement binary search tree insertion  
+105. Implement BST deletion  
+106. Search in a BST  
+107. Inorder traversal of BST  
+108. Preorder traversal of BST  
+109. Postorder traversal of BST  
+110. Find height of binary tree  
+111. Count nodes in binary tree  
+112. Count leaf nodes in binary tree  
+113. Level order traversal of binary tree  
+114. Check if two trees are identical  
+115. Find LCA (Lowest Common Ancestor) in binary tree  
+116. Implement merge sort  
+117. Implement quick sort  
+118. Implement insertion sort  
+119. Implement selection sort  
+120. Implement bubble sort  
+121. Implement binary search (recursive)  
+122. Implement binary search (iterative)  
+123. Find GCD using recursion  
+124. Find LCM using recursion  
+125. Matrix addition  
+126. Matrix subtraction  
+127. Matrix multiplication  
+128. Matrix transpose  
+129. Find determinant of a matrix  
+130. Find inverse of a matrix  
+131. Check symmetric matrix  
+132. Check sparse matrix  
+133. Count words in a string  
+134. Remove duplicate characters from string  
+135. Find longest word in a string  
+136. Implement strstr()  
+137. Implement strcmp()  
+138. Implement strcat()  
+139. Implement strcpy()  
+140. Check if string is an anagram  
+141. Find all permutations of a string  
+142. Reverse each word in string  
+143. Sort array of strings  
+144. Implement file read operation  
+145. Implement file write operation  
+146. Append data to file  
+147. Count number of lines in a file  
+148. Count words in a file  
+149. Merge contents of two files  
+150. Copy contents from one file to another  
+151. Search word in file  
+152. Replace word in file  
+153. Find most frequent word in file  
+154. Find size of file  
+155. Implement dynamic array (malloc/realloc)  
+156. Implement hash table (basic chaining)  
+157. Implement hash table (open addressing)  
+158. Find duplicates in array  
+159. Remove duplicates from array  
+160. Find missing number in array  
+
+---
+
+## **C. Advanced (90 Questions)**
+
+161. Implement graph using adjacency list  
+162. Implement graph using adjacency matrix  
+163. BFS traversal of graph  
+164. DFS traversal of graph  
+165. Detect cycle in undirected graph  
+166. Detect cycle in directed graph  
+167. Topological sort (DFS)  
+168. Topological sort (Kahn’s algorithm)  
+169. Find connected components in graph  
+170. Dijkstra’s algorithm  
+171. Bellman-Ford algorithm  
+172. Floyd-Warshall algorithm  
+173. Prim’s algorithm for MST  
+174. Kruskal’s algorithm for MST  
+175. Kosaraju’s algorithm (SCC)  
+176. Tarjan’s algorithm (SCC)  
+177. Articulation points in graph  
+178. Bridges in graph  
+179. Bipartite graph check  
+180. Hamiltonian path  
+181. Eulerian path  
+182. Travelling Salesman Problem (DP)  
+183. 0/1 Knapsack problem (DP)  
+184. Unbounded Knapsack  
+185. Longest Common Subsequence (DP)  
+186. Longest Increasing Subsequence (DP)  
+187. Matrix Chain Multiplication (DP)  
+188. Minimum Edit Distance (DP)  
+189. Coin Change Problem (DP)  
+190. Subset Sum Problem (DP)  
+191. Partition Equal Subset Sum (DP)  
+192. N-Queens problem (Backtracking)  
+193. Rat in a Maze (Backtracking)  
+194. Sudoku Solver (Backtracking)  
+195. Word Search (Backtracking)  
+196. Palindrome Partitioning (Backtracking)  
+197. KMP algorithm (String Matching)  
+198. Z algorithm (String Matching)  
+199. Rabin-Karp algorithm (String Matching)  
+200. Suffix Array construction  
+201. Suffix Automaton  
+202. Manacher’s algorithm (Longest Palindrome)  
+203. Trie implementation (Insert/Search)  
+204. Trie delete operation  
+205. Aho-Corasick algorithm  
+206. Segment Tree (Range Sum Query)  
+207. Segment Tree (Range Min Query)  
+208. Fenwick Tree (Binary Indexed Tree)  
+209. Disjoint Set Union (Union Find)  
+210. Kruskal with DSU  
+211. Convex Hull (Graham Scan)  
+212. Convex Hull (Jarvis March)  
+213. Line intersection check  
+214. Point in polygon check  
+215. Closest pair of points (Divide & Conquer)  
+216. Fast Exponentiation (Binary Exponentiation)  
+217. Modular Inverse (Extended Euclid)  
+218. Sieve of Eratosthenes  
+219. Segmented Sieve  
+220. Miller-Rabin primality test  
+221. Chinese Remainder Theorem  
+222. Pollard’s Rho algorithm  
+223. Big Integer addition in C  
+224. Big Integer multiplication in C  
+225. Fast Fourier Transform (FFT)  
+226. Number Theoretic Transform (NTT)  
+227. Mo’s algorithm (Query Square Root Decomposition)  
+228. Persistent Segment Tree  
+229. Heavy-Light Decomposition  
+230. Centroid Decomposition  
+231. Binary Lifting (LCA)  
+232. Euler Tour technique  
+233. Sparse Table RMQ  
+234. Bitmask DP (TSP)  
+235. Bitmask DP (Subset Problems)  
+236. Meet in the Middle technique  
+237. Sliding Window Maximum  
+238. Sliding Window Minimum  
+239. Two Pointers technique (Pair Sum)  
+240. Binary Search on Answer  
+241. Min-Cost Max-Flow algorithm  
+242. Edmonds-Karp algorithm  
+243. Hopcroft-Karp algorithm (Bipartite Matching)  
+244. Blossom algorithm (General Matching)  
+245. K-D Tree implementation  
+246. Range Tree implementation  
+247. Treap implementation  
+248. Splay Tree implementation  
+249. AVL Tree implementation  
+250. Red-Black Tree implementation  
+
+---
