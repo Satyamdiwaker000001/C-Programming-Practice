@@ -36,6 +36,10 @@ Every level contains **at least 60 coding problems** with `.c` solutions.
   - [SizeOfDatatypes.c](./Basic-Prog/Level_0/SizeOfDatatypes.c)
   - [ASCII_value.c](./Basic-Prog/Level_0/ASCII_value.c)
   - [Sum-Of-two-input-digits.c](./Basic-Prog/Level_0/Sum.c)
+  - [Difference-of-two-integers.c](./Basic-prog/Level_0/difference_of_Twodigit.c)
+  - [Product_of_two_digits.c](./Basic-prog/Level_0/Product_of_TwoDigits.c)
+  - [Division_of_two_digit.c](./Basic-prog/Level_0/Division_of_two_digit.c)
+  - [Area_of_circle.c](./Basic-prog/Level_0/Area_of_circle.c)
   - *(50 solutions pending)*
 - **[Level_1](./Basic-Prog/level%201)** (❌ 0 / 60)
 - **[Level_2](./Basic-Prog/Level_2)** (❌ 0 / 60)
