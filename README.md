@@ -29,13 +29,14 @@ Every level contains **at least 60 coding problems** with `.c` solutions.
 ## 📂 Folder & Level Structure
 
 ### 📁 Basic-Prog
-- **[Level_0](./Basic-Prog/Level_0)** (✅ 5 / 60)
+- **[Level_0](./Basic-Prog/Level_0)** (✅ 10 / 60)
   - [Hello_world.c](./Basic-Prog/Level_0/Hello_world.c)
   - [NameAndAge.c](./Basic-Prog/Level_0/NameAndAge.c)
   - [NameAndRollNo.c](./Basic-Prog/Level_0/NameAndRollNo.c)
   - [SizeOfDatatypes.c](./Basic-Prog/Level_0/SizeOfDatatypes.c)
-  - [ASCII_value.c](././Basic-Prog/Level_0/ASCII_value.c)
-  - *(55 solutions pending)*
+  - [ASCII_value.c](./Basic-Prog/Level_0/ASCII_value.c)
+  - [Sum-Of-two-input-digits.c](./Basic-Prog/Level_0/Sum.c)
+  - *(50 solutions pending)*
 - **[Level_1](./Basic-Prog/level%201)** (❌ 0 / 60)
 - **[Level_2](./Basic-Prog/Level_2)** (❌ 0 / 60)
 - **[Level_3](./Basic-Prog/Level_3)** (❌ 0 / 60)
@@ -77,10 +78,10 @@ Every level contains **at least 60 coding problems** with `.c` solutions.
 ## 📊 Progress Summary
 | Category      | Levels | Total Questions | Solutions Added | Pending |
 |---------------|--------|----------------|----------------|---------|
-| Basic         | 11     | 660            | 5              | 655     |
+| Basic         | 11     | 660            | 10              | 650     |
 | Intermediate  | 6      | 360            | 0              | 360     |
 | Advance       | 6      | 360            | 0              | 360     |
-| **Total**     | 23     | **1380**       | **5**          | **1375** |
+| **Total**     | 23     | **1380**       | **10**          | **1370** |
 
 ---
 
