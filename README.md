@@ -9,11 +9,13 @@ Every level contains **at least 60 coding problems** with `.c` solutions.
 ## 📌 How to Use This Repository
 
 ### 1. **Practice Mode (Recommended Flow)**
+
 - Start from **Basic Level 0** and move up level by level.
 - Don’t jump to higher levels until you’ve completed the previous ones.
 - Minimum **60 solved problems per level**.
 
 ### 2. **Interview Mode (Emergency Mode)**
+
 - Use only if you have **already practiced** or are in a hurry for interviews.
 - Jump directly to the [`Interview-Perspective`](./Interview-Perspective/Interview-questions.txt) folder and try solving questions.
 - This will help you **test your knowledge quickly**.
@@ -25,22 +27,24 @@ Every level contains **at least 60 coding problems** with `.c` solutions.
 <!-- AUTO-START -->
 <!-- AUTO-END -->
 
-
 ## 📂 Folder & Level Structure
 
 ### 📁 Basic-Prog
-- **[Level_0](./Basic-Prog/Level_0)** (✅ 10 / 60)
-  - [Hello_world.c](./Basic-Prog/Level_0/Hello_world.c)
-  - [NameAndAge.c](./Basic-Prog/Level_0/NameAndAge.c)
-  - [NameAndRollNo.c](./Basic-Prog/Level_0/NameAndRollNo.c)
-  - [SizeOfDatatypes.c](./Basic-Prog/Level_0/SizeOfDatatypes.c)
-  - [ASCII_value.c](./Basic-Prog/Level_0/ASCII_value.c)
-  - [Sum-Of-two-input-digits.c](./Basic-Prog/Level_0/Sum.c)
-  - [Difference-of-two-integers.c](./Basic-prog/Level_0/difference_of_Twodigit.c)
-  - [Product_of_two_digits.c](./Basic-prog/Level_0/Product_of_TwoDigits.c)
-  - [Division_of_two_digit.c](./Basic-prog/Level_0/Division_of_two_digit.c)
-  - [Area_of_circle.c](./Basic-prog/Level_0/Area_of_circle.c)
-  - *(50 solutions pending)*
+
+- **[Level_0](./Basic-Prog/Level_0)** (✅ 12 / 60)
+  - [Hello_world.c](./Basic-Prog/Level_0/Input Output & variables/Hello_world.c)
+  - [NameAndAge.c](./Basic-Prog/Level_0/Input Output & variables/NameAndAge.c)
+  - [NameAndRollNo.c](./Basic-Prog/Level_0/Input Output & variables/NameAndRollNo.c)
+  - [SizeOfDatatypes.c](./Basic-Prog/Level_0/Input Output & variables/SizeOfDatatypes.c)
+  - [ASCII_value.c](./Basic-Prog/Level_0/Input Output & variables/ASCII_value.c)
+  - [Sum-Of-two-input-digits.c](./Basic-Prog/Level_0/Input Output & variables/Sum.c)
+  - [Difference-of-two-integers.c](./Basic-prog/Level_0/Input Output & variables/difference_of_Twodigit.c)
+  - [Product_of_two_digits.c](./Basic-prog/Level_0/Input Output & variables/Product_of_TwoDigits.c)
+  - [Division_of_two_digit.c](./Basic-prog/Level_0/Input Output & variables/Division_of_two_digit.c)
+  - [Area_of_circle.c](./Basic-prog/Level_0/Input Output & variables/Area_of_circle.c)
+  - [Find_remainder_when_one_number_is_divided_by_another.c](./Basic-prog/Level_0/Input Output & variables/Find_remainder_when_one_number_is_divided_by_another.c)
+  - [Celcius_To_ferinhite.c](./Basic-prog/Level_0/Input Output & variables/Celcius_To_ferinhite.c)
+  - _(48 solutions pending)_
 - **[Level_1](./Basic-Prog/level%201)** (❌ 0 / 60)
 - **[Level_2](./Basic-Prog/Level_2)** (❌ 0 / 60)
 - **[Level_3](./Basic-Prog/Level_3)** (❌ 0 / 60)
@@ -55,6 +59,7 @@ Every level contains **at least 60 coding problems** with `.c` solutions.
 ---
 
 ### 📁 Intermediate
+
 - **[Level_0](./Intermediate/Level_0)** (❌ 0 / 60)
 - **[Level_1](./Intermediate/Level_1)** (❌ 0 / 60)
 - **[Level_2](./Intermediate/Level_2)** (❌ 0 / 60)
@@ -65,6 +70,7 @@ Every level contains **at least 60 coding problems** with `.c` solutions.
 ---
 
 ### 📁 Advance
+
 - **[Level_0](./Advance/leve_0)** (❌ 0 / 60)
 - **[Level_1](./Advance/leve_1)** (❌ 0 / 60)
 - **[Level_2](./Advance/leve_2)** (❌ 0 / 60)
@@ -75,21 +81,24 @@ Every level contains **at least 60 coding problems** with `.c` solutions.
 ---
 
 ### 📁 Interview-Perspective
+
 - [Interview-questions.txt](./Interview-Perspective/Interview-questions.txt)
 
 ---
 
 ## 📊 Progress Summary
-| Category      | Levels | Total Questions | Solutions Added | Pending |
-|---------------|--------|----------------|----------------|---------|
-| Basic         | 11     | 660            | 10              | 650     |
-| Intermediate  | 6      | 360            | 0              | 360     |
-| Advance       | 6      | 360            | 0              | 360     |
-| **Total**     | 23     | **1380**       | **10**          | **1370** |
+
+| Category     | Levels | Total Questions | Solutions Added | Pending  |
+| ------------ | ------ | --------------- | --------------- | -------- |
+| Basic        | 11     | 660             | 12              | 648      |
+| Intermediate | 6      | 360             | 0               | 360      |
+| Advance      | 6      | 360             | 0               | 360      |
+| **Total**    | 23     | **1380**        | **12**          | **1368** |
 
 ---
 
 ## 🛠 How It Works
+
 1. **Choose a level** you want to practice.
 2. **Read the problem statement** from the `Questions_level_X.txt` file.
 3. **Write your solution** in a `.c` file inside that level folder.
@@ -97,3 +106,4 @@ Every level contains **at least 60 coding problems** with `.c` solutions.
    ```bash
    gcc filename.c -o output
    ./output
+   ```
